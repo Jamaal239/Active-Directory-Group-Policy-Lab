@@ -66,4 +66,4 @@ Logging into a domain-joined workstation using a new test employee account (**Mi
 ---
 
 ## 📌 Project Outcome
-This lab successfully demonstrates centralized security administration. By decoupling custom
+This lab successfully demonstrates centralized security administration. By decoupling custom desktop lockdown rules from global domain defaults and systematically targeting specific OUs, this project proves practical competency in Group Policy propagation, endpoint hardening, and corporate compliance enforcement.
